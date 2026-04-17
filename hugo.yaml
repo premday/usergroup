@@ -18,6 +18,7 @@ params:
   navbar:
     displayTitle: false
     displayLogo: true
+    width: wide
     logo:
       path: 'images/logo_dark@2x.png'
       dark: 'images/logo_light@2x.png'
