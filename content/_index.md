@@ -4,6 +4,7 @@ description: On-premises infrastructure owners sharing experience & tools.
 weight: 1
 cascade:
   type: docs
+  width: wide
 ---
 
 <div class="hx:mt-6 hx:mb-6">
