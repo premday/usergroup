@@ -1,0 +1,29 @@
+:root {
+    --color-main-blue: #0C1743;
+    --color-main-purple: #8636B7;
+    --color-light-purple: #BF88EF;
+    --gradient-brand: linear-gradient(90deg, #0C1743, #BF88EF, #8636B7);
+
+    --primary-hue: 277;
+    --primary-saturation: 54%;
+    --primary-lightness: 46%;
+}
+
+.dark {
+    --primary-hue: 272;
+    --primary-saturation: 76%;
+    --primary-lightness: 74%;
+}
+
+.premday_card {
+    aspect-ratio: 1.1;
+    background: linear-gradient(50deg, rgba(255, 255, 255, 0) 50%, rgba(191, 136, 239, 0.20) 100%);
+}
+
+.premday_card:hover {
+    background: linear-gradient(50deg, rgba(255, 255, 255, 0) 50%, rgba(191, 136, 239, 0.35) 100%);
+}
+
+.premday_card_img {
+    max-width: 100%;
+}

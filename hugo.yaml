@@ -1,0 +1,55 @@
+baseURL: https://github.com/premday/usergroup
+languageCode: en-us
+title: Premday
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+params:
+  author:
+    name: Premday
+    email: no-reply@premday.org
+
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: 'images/logo_dark@2x.png'
+      dark: 'images/logo_light@2x.png'
+      width: 180
+  highlight:
+    copy:
+      enable: false
+  footer:
+    displayCopyright: true
+    displayPoweredBy: true
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Our work
+      pageRef: /our_work
+      weight: 1
+    - name: About
+      pageRef: /about
+      weight: 2
+    - name: Theme Toggle
+      weight: 97
+      params:
+        type: theme-toggle
+    - name: GitHub
+      weight: 99
+      url: "https://github.com/premday"
+      params:
+        icon: github
