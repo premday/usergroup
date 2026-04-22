@@ -52,7 +52,7 @@ cascade:
     subtitle="We also have a sub group of network experts, collaborating and helping each others around many topics: SONiC, network hardware, design, operation, monitoring, troubleshooting and more.<br/><br/>We value open networking and are willing to help anyone embarking in this journey." 
     class="premday_card"
     imageClass="premday_card_img"
-    link="https://premday.github.io/network"
+    link="https://sonic.premday.org"
   >}}
 
 {{< /hextra/feature-grid >}}
