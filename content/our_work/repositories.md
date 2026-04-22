@@ -5,12 +5,9 @@ weight: 1
 
 ## Our repositories
 
-> [!NOTE]
-> Work in progress
-
 | Repository | Description |
 |---|---|
-| **[premday/repo1]()** | Short description of what this repository does. |
+| **[premday/bbbench](https://github.com/premday/bbbench)** | Block-device benchmark tool. Discovers drives, generates [fio](https://github.com/axboe/fio) job files from templates, runs benchmarks across multiple drives in parallel, and serves results via a web UI.. |
 
 ## Our curated list of repositories
 
