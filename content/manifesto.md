@@ -13,11 +13,11 @@ should be small, well‑tested, and rarely changed.
 
 ## Among ourselves
 
-### We do not poach
-We are here to swap notes, not business cards. Premday members do not actively
-recruit each other's people, and meetings, mailing lists, or coffee breaks are
-not job interviews in disguise. Everyone is a colleague first — candidates only
-come knocking on their own, somewhere else.
+### We attend to engage, not to recruit
+We are here to swap notes, and share experience. Premday members do not use
+meetings, mailing lists or coffee breaks to apply for jobs or recruit
+candidates. Everyone is a peer first, and Premday spaces should only be used
+to further Premday goals.
 
 ### We respect what is shared in the room
 What is said in Premday stays in Premday — unless the speaker says otherwise.
