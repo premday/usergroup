@@ -56,3 +56,18 @@ cascade:
   >}}
 
 {{< /hextra/feature-grid >}}
+
+<div class="hx:max-w-3xl hx:mx-auto hx:text-center hx:mt-20 hx:mb-12">
+
+<h2 class="hx:text-3xl hx:font-bold hx:mb-4">How we work together</h2>
+
+<p class="hx:text-lg hx:text-gray-600 hx:dark:text-gray-400 hx:mb-6">
+Premday runs on a handful of unwritten rules — written down, for once, in our
+<a href="manifesto/" class="hx:text-primary-600 hx:underline">manifesto</a>.
+No poaching among members, no price talk with vendors, open source by default,
+and a few more principles we ask everyone to read once and apply forever.
+</p>
+
+{{< hextra/hero-button text="Read the manifesto" link="manifesto/" >}}
+
+</div>
