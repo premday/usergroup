@@ -13,6 +13,15 @@ should be small, well‑tested, and rarely changed.
 
 ## Among ourselves
 
+### We care about on-prem infrastructure, not scale
+
+
+### We leave business at the door
+Engineering first, always, as equals.Inside the user group, no one is a
+competitor, a champion, or an industry analyst. We are operators with the
+same problems and roughly the same scars — and that is what we are here
+to talk about.
+
 ### We attend to engage, not to recruit
 We are here to swap notes, and share experience. Premday members do not use
 meetings, mailing lists or coffee breaks to apply for jobs or recruit
@@ -25,36 +34,26 @@ Incident details, internal numbers, roadmap hints, and unfiltered opinions are
 confidence by default; ask before quoting, screenshotting, or repeating.
 
 ### We share the blunders too
-Outages, dead‑on‑arrival batches, and "we should have known" moments are often
-the most useful things we can offer each other. Bring them. We will listen,
-learn, and never use them against you.
-
-### We leave logos at the door
-Inside the user group, no one is a competitor, a champion, or an industry
-analyst. We are operators with the same problems and roughly the same scars —
-and that is what we are here to talk about.
+It's ok to fail but not to blame. Outages, dead‑on‑arrival batches, and "we 
+should have known" moments are often the most useful things we can offer 
+each other. Bring them. We will listen, learn, and never use them against you.
 
 ## With vendors
 
-### We do not talk price
-Prices, discounts, rebates, and contract terms are strictly between each member
-and each vendor. We do not compare quotes, coordinate negotiations, or whisper
-figures over lunch. Premday is a user group, not a buying group — emphasis on
-*user*.
-
 ### We have no preferred vendor
-The group does not endorse, rank, or blacklist any vendor on behalf of its
-members. Individual companies buy from whomever they like; the user group will
-not put a collective thumb on anyone's scale.
+All vendors are treated equal. The group does not endorse, rank, or blacklist
+any vendor on behalf of its members. Individual companies buy from whomever they
+like; the user group will not put a collective thumb on anyone's scale.
 
-### We treat every sponsor the same way
-One plan, one price, one logo size — no booths, no premium tiers, no
-gold/silver/bronze. Visibility is shared equally, by design. Fairness is a
-feature, not a perk.
-
-### We give technical feedback, not commercial pressure
+### We give technical feedback
 We tell vendors plainly what works and what does not — that is the whole point.
 We never weaponize the group as leverage on a deal, a renewal, or an escalation.
+We thrive for actionable feedback.
+
+### We do not talk price
+Prices, discounts, rebates, and contract terms are strictly between each member
+and each vendor. Premday is a technical user group, not a buying group — emphasis
+on *user*.
 
 ## With our content & creations
 
@@ -69,14 +68,14 @@ authors, and contribute fixes back. Forking‑and‑forgetting is not our cultur
 neither is relicensing what was never ours.
 
 ### We disseminate, never monetize
-Talks, slides, recordings, and shared group output are public goods. No member
-sells them, paywalls them, or repackages them as a commercial offering — neither
-for themselves nor for their employer.
+Published talks, slides, recordings, and shared group outputs are in the commons.
+No member sells them, paywalls them, or repackages them as a commercial offering
+— neither for themselves nor for their employer.
 
 ### We share knowledge, not personal data
-Aggregated learnings, yes. Nominative attendee lists, photos, or contact details
-shared with third parties, never. What we publish about the community is
-anonymized by default, and stays that way.
+Privacy by default. Aggregated learnings, yes. Nominative attendee lists, photos,
+or contact details shared with third parties, never. What we publish about the 
+community is anonymized by default, and stays that way.
 
 ---
 
