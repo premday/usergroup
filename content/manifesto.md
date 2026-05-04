@@ -17,7 +17,7 @@ should be small, well‑tested, and rarely changed.
 
 
 ### We leave business at the door
-Engineering first, always, as equals.Inside the user group, no one is a
+Engineering first, always, as equals. Inside the user group, no one is a
 competitor, a champion, or an industry analyst. We are operators with the
 same problems and roughly the same scars — and that is what we are here
 to talk about.
