@@ -42,9 +42,12 @@ menu:
     - name: Our work
       pageRef: /our_work
       weight: 1
+    - name: Manifesto
+      pageRef: /manifesto
+      weight: 2
     - name: About
       pageRef: /about
-      weight: 2
+      weight: 3
     - name: Theme Toggle
       weight: 97
       params:
