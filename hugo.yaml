@@ -20,8 +20,8 @@ params:
     displayLogo: true
     width: wide
     logo:
-      path: 'images/logo_dark@2x.png'
-      dark: 'images/logo_light@2x.png'
+      path: "images/logo_dark@2x.png"
+      dark: "images/logo_light@2x.png"
       width: 180
   highlight:
     copy:
@@ -41,6 +41,9 @@ menu:
   main:
     - name: Our work
       pageRef: /our_work
+      weight: 1
+    - name: Our numbers
+      pageRef: /our_numbers
       weight: 1
     - name: Manifesto
       pageRef: /manifesto
